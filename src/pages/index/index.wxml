@@ -1,0 +1,21 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="screen">Content</view>
+  <view class="btn-box">
+    <view class="row">
+      <view class="cell">1</view>
+      <view class="cell">2</view>
+      <view class="cell">3</view>
+    </view>
+    <view class="row">
+      <view class="cell">4</view>
+      <view class="cell">5</view>
+      <view class="cell">6</view>
+    </view>
+    <view class="row">
+      <view class="cell">7</view>
+      <view class="cell">8</view>
+      <view class="cell">9</view>
+    </view>
+  </view>
+</view>

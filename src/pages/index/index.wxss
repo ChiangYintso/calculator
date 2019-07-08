@@ -1,0 +1,29 @@
+/**index.wxss**/
+.container {
+  position: relative;
+  height: 100%;
+  display: block;
+}
+.screen {
+  text-align: center;
+}
+.btn-box {
+  position: absolute;
+  height: 600rpx;
+  width: 100%;
+  bottom: 0;
+}
+.row {
+  height: 200rpx;
+  display: flex;
+  flex-direction: row;
+}
+.cell {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  background: #9c8da5;
+  font-size: 120rpx;
+  border: 3rpx solid black;
+}
